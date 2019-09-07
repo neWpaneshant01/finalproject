@@ -5,3 +5,15 @@ body{
 .content{
 	margin: 0 10% 0 10%;
 }
+
+.title{
+
+	background-color:#51f0db;
+
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
